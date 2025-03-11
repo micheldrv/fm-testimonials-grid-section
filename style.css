@@ -81,7 +81,7 @@ main {
   display: flex;
   flex-direction: column;
   padding: var(--spacing-5);
-  gap: var(--spacing-4);
+  gap: var(--spacing-3);
 
   &.purple {
     background-color: var(--purple-500);
