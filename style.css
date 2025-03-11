@@ -229,6 +229,7 @@ main {
   main {
     position: relative;
     grid-template-columns: repeat(4, var(--size-desktop));
+    row-gap: var(--spacing-4);
   }
 
   .testimonial:nth-of-type(5) {
