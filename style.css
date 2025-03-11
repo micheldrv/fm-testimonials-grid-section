@@ -26,6 +26,7 @@
   --black: #121212;
   --dark-blue: #19202d;
   --white: white;
+  --page-bg: #f6f5f6;
   --grey-100: #e7eaee;
   --grey-200: #cfcfcf;
   --grey-300: #a3aab4;
@@ -53,7 +54,7 @@
 body {
   min-height: 100vh;
   font-family: "Barlow Semi Condensed", sans-serif;
-  background-color: var(--grey-100);
+  background-color: var(--page-bg);
   color: var(--grey-500);
 
   display: flex;
